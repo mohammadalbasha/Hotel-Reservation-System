@@ -1,0 +1,30 @@
+[
+    {
+        "room": {
+            "number": 1,
+            "price": 100
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "realmadrid",
+            "country": "espana",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    }
+]

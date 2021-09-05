@@ -1,0 +1,111 @@
+$mainOrang:#ff7e00;
+$fontColor:  #525252;
+
+*{
+    box-sizing: border-box;
+    list-style: none;
+
+
+}
+body{
+    color: $mainOrang;
+        text-align: left;
+        color:$fontColor;
+        color:$fontColor;
+
+
+}
+.MuiButton-containedSecondary{
+background-color: $mainOrang !important;
+}
+@import './scss/navBar';
+@import './scss/HotelsPage/HotelsPage';
+@import './scss/HotelsPage/navication';
+@import './scss/HotelPage//hotelPage';
+@import './scss/chake';
+@import './scss/advantages';
+@import './scss/safe';
+@import './scss/hotelsSall';
+@import './scss/singIn';
+@import './scss/YpurBckingPage/yourBocking';
+@import './scss/HotelOweners/logIn';
+@import './scss/HotelOweners/owenerMainPage';
+@import './scss/checkPar';
+@import './scss/footer'; 
+@import './scss/ribbons'; 
+
+
+.cv{
+    .left{
+        background-color: #2a2a2a;
+                height: 100vh;
+        color: #fff;
+        padding-top: 20px;
+        &>div{border-bottom: 1px solid #eee;
+            padding-bottom: 16px;
+            margin-bottom: 30px;
+        }
+        h6{
+        font-size: 20px;
+        }
+        .conact{
+        
+            span{
+                margin-right: 8px;
+                font-weight: bold;
+            }
+         
+            h2{
+                font-size: 20px;
+               font-weight: 400;
+            }
+        }
+        .maimnSkils{
+          
+            h2{
+                font-size: 20px;
+               font-weight: 400;
+            }
+        }
+        .progress {
+             height: 16px;
+            margin-bottom: 10px;
+            &>div{
+                background-color: #2a2a2a91;
+            }
+        }
+    }
+    .right{
+        margin-left: 20px;
+        h3{
+            font-size: 33px;
+    margin: 34px 0 10px 0;
+        }
+        ul{ 
+            font-size: 20px;
+            li{
+            list-style: disc;
+            margin-bottom: 5px;
+            font-size: 27px;
+        }}
+        height: 100vh;
+        padding-top: 20px;
+        .name{
+            padding-bottom: 20px;
+            border-bottom: 3px solid;
+            margin-bottom: 10px;
+            h1{
+                font-size: 50px;
+            }
+        }
+       
+    }
+}
+
+
+
+
+
+
+
+

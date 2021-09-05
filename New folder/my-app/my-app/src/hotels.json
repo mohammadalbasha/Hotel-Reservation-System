@@ -1,0 +1,1075 @@
+[
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel5.jpg","/imgs/hotel7.jpg","/imgs/hotel8.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 20,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room5.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "stars":5,
+        "_id": "60893d271167ba092c20bf51",
+        "name": "oprea ",
+        "country": "Paseo de la Ribera 65 - 68, Sitges, CT, 8870",
+        "role": "tour",
+         "__v": 1,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+         "offers":{"hotelDiscount":0,
+                "websiteDiscount":4,
+                "extra":"we have more"},
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": true,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "60893d271167ba092c20bf52",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel2.jpg","/imgs/hotel3.jpg","/imgs/hotel1.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 50,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room5.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "_id": "60893d46fde7ba32bc60ca8a",
+        "name": "realmadrid",
+        "country": "Carrer Verdi, 12, Montcada i Reixac, CT, 8110",
+         "stars":4,
+        "role": "tour",
+           "__v": 0,
+                
+               
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+         "offers":{"hotelDiscount":7,
+                "websiteDiscount":4,
+                "extra":"we have more"},
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "60893d48fde7ba32bc60ca8b",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel4.jpg","/imgs/hotel5.jpg","/imgs/hotel1.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 70,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room5.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "stars":5,
+        "_id": "60893d271167ba092c20bf55",
+        "name": "oprea ",
+        "country": "Paseo de la Ribera 65 - 68, Sitges, CT, 8870",
+        "role": "tour",
+           "__v": 0,
+                
+               
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+         "offers":{"hotelDiscount":1,
+                "websiteDiscount":4,
+                "extra":"we have more"},
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "60893d271167b092cbf52",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel1.jpg","/imgs/hotel7.jpg","/imgs/hotel8.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room5.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "stars":5,
+        "_id": "60893d271167ba092c20bf1",
+        "name": "oprea ",
+        "country": "Paseo de la Ribera 65 - 68, Sitges, CT, 8870",
+        "role": "tour",
+           "__v": 0,
+              
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+         "offers":{"hotelDiscount":10,
+                "websiteDiscount":0,
+                "extra":"we have more"},
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "60893d21167ba092c20bf52",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel9.jpg","/imgs/hotel4.jpg","/imgs/hotel5.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "_id": "60893d6fde7ba32bc60ca8a",
+        "name": "realmadrid",
+        "country": "Carrer Verdi, 12, Montcada i Reixac, CT, 8110",
+         "stars":4,
+        "role": "tour",
+           "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+         "offers":{"hotelDiscount":15,
+                "websiteDiscount":4,
+                "extra":"we have more"},
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "6083d48fde7ba32bc60ca8",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": ["/imgs/hotel3.jpg","/imgs/hotel2.jpg","/imgs/hotel3.jpg","/imgs/hotel4.jpg","/imgs/hotel5.jpg"],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                    "imagesUrl": ["/imgs/room1.jpg"],
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+
+               
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room5.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                    "__v": 0,
+                
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                "imagesUrl": ["/imgs/room3.jpg"],
+
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+                
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotell": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                  "__v": 0,
+                  "imagesUrl": ["/imgs/room4.jpg"],
+
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+                
+                
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "notes":[
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3.2,
+               "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+                "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+               "evaluating":3,"notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place",
+               "suggestions":"plase add sea food to your Restaurant"
+            },
+            {"_id":"6107daafb6c5e110ace3f93c",
+              "evaluating":4,"notes":"Top-notch everything. The views, the staff, the food. Loved it.",
+               "suggestions":"plase add sea food to your Restaurant"},
+            {"_id":"6107daafb6c5e110ace3f93c",
+                "evaluating":3,
+                "notes":"Fabulous from beginning to end. See tripadvisor for more detailed reviews about this fabulous place.    ",
+                "suggestions":"plase add sea food to your Restaurant"
+            }
+        ],
+        "stars":5,
+        "_id": "603d271167ba092c20bf55",
+        "name": "oprea ",
+        "country": "Paseo de la Ribera 65 - 68, Sitges, CT, 8870",
+        "role": "tour",
+           "__v": 0,
+              
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021",
+        "features": {
+            
+         "offers":{"hotelDiscount":10,
+                "websiteDiscount":4,
+                "extra":"we have more"},
+            "hotelFeatures":
+             {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            "_id": "60893d276792cbf52",
+              "__v": 0,
+                
+                "state":true,
+                "chackIn":"7/3/2021",
+                "chackOut":"21/3/2021"
+        }
+    }
+]
+
+
+

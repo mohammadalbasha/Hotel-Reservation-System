@@ -1,0 +1,44 @@
+.safeSection{
+    padding: 40px 184px;
+    background-color: #eee;
+
+    .safe{
+        text-align: center;
+
+        .tittel{
+            font-size: 25px;
+            margin: 16px  0;
+            font-weight: bold;
+        }
+        .tittelInfo{
+
+        }
+        section{
+            margin: 10px 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            i{
+                width: 54px;
+                height: 54px;
+                background: #eee;
+                margin: 13px;
+                color: $mainOrang;
+                font-size: 42px;
+                text-align: center;
+                line-height: 43px;
+                border-radius: 50%;
+            }
+            .info{
+            span{
+                color: #04225a93;
+                font-size: 14px;
+            }
+            }
+        }
+    }
+}
+@media (max-width: 767.98px) { 
+    .safeSection {
+        padding: 40px 37px;}}

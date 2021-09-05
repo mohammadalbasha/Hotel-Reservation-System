@@ -1,0 +1,18 @@
+.yourBockingPage{
+    padding: 77px 0;
+    .yourBocking{
+padding-left: 40px ;
+padding-right: 40px ;
+    }
+}
+@media (max-width: 991.98px) { 
+    .yourBockingPage{
+        .yourBocking{
+    padding-left: 10px ;
+    padding-right: 10px ;
+        }
+    }
+}
+.InfiniteCarouselArrowPrevIcon ,.InfiniteCarouselArrowNextIcon{
+    margin: 0 10px;
+}

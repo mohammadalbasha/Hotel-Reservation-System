@@ -1,0 +1,118 @@
+.hotelSallSection{
+    padding: 40px 180px;
+    header{
+        font-size: 31px;
+    font-weight: bold;
+    margin: 16px 21px;
+    /* text-align: center; */
+    color: #56565659;
+}
+    
+    .cart{
+        text-align: left;
+        width: 100%;
+        margin: auto;
+        // span{
+        //     height: 19px;
+        //     background: red;
+        //     width: 143px;
+        //     top: 4px;
+        //     z-index: 1000;
+        //     right: -30px;
+        //     transform: rotate(
+        // 47deg
+        // );
+        //     position: absolute;
+        //     &::after{
+        //      content: "";
+
+        //     }
+        //     &::before{
+
+        //     }
+        // }
+        .stars{
+         color: gold;
+        }
+        img{
+            height:  222px;
+        }
+        .info{
+            margin: 0 11px;
+            padding: 0 5px;
+            background: #eeeeee29;         
+               .name{
+                font-size:  35px;
+             }
+            .go{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                .btn {
+                    border: 2px solid orange;
+                    font-weight: 600;
+                    color: orange;
+                   
+                    &:hover{
+                      background-color: $mainOrang;
+                      color: #fff;
+                    }
+                  }
+                
+                 .price{
+                    //  font-size: 33px;
+                    //  font-weight: 700;
+                    //  color: #f52828;
+                 }
+            }
+          
+            .country{
+                color: gray;
+            }
+
+        }
+    }
+}
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { 
+
+}
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+    .hotelSallSection{
+            padding: 40px 40px;
+            .cart{
+                // width: 360px;
+            }
+    }
+     }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { 
+    .hotelSallSection{
+        padding: 40px 10px;
+       
+}
+ }
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    .hotelSallSection{
+        padding: 40px 10px;
+        .cart{
+            // width: 376px;
+        }
+}
+}
+
+//X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+    .hotelSallSection{
+        padding: 40px 0;
+        .cart{
+            // width: 360px;
+        }
+    }
+
+}
+

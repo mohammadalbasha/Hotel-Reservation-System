@@ -1,0 +1,55 @@
+.advantagesSection{
+    padding: 60px 76px;
+    background-color: #eee;
+    .tittel{
+        font-size: 25px;
+        margin: 16px  0;
+        font-weight: bold;
+
+    }
+    .advantages{
+        // display: flex;
+        // justify-content: space-between;
+        section{
+            display: flex;
+            flex-direction: column;
+            margin: 20px 0;
+            align-items: center;
+            justify-content: center;
+            i{
+
+                width: 54px;
+                height: 54px;
+                margin-right: 13px;
+                text-align: center;
+                line-height: 43px;
+                font-size: 23px;
+                border-radius: 50%;
+                margin: 10px 0;
+                border: 4px $mainOrang solid;
+            }
+          
+            .info{
+              text-align: center;
+                h5{
+                    font-weight: bold;
+                    font-size: 21px;
+                }
+               span{
+                color: #04225a93;
+                font-size: 14px;
+               }
+            }
+          
+        }
+      
+
+       
+        }
+    }
+    @media (max-width: 991.98px) {
+        .advantagesSection{
+            padding: 60px 0;
+        }
+
+    }

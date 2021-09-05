@@ -1,0 +1,61 @@
+.singInPage,.singUpPage{
+    .SingIn,.singUp {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #eee;
+        margin-top: 70px;
+        header{
+            position: absolute;
+            top: 42%;
+            left: 28%;
+            transform: translate(-50%, -50%);
+            display: none;
+        }
+        .form{
+          
+            box-shadow: 0 2px 4px #00000010, 0 8px 16px #00000010;
+            padding: 20px;
+        // margin-top: 50px;
+            width: 400px;
+            text-align: center;
+            background-color: #fff;
+            border-radius: 8px;
+            .google{
+         margin-bottom: 20px;
+        color: #1877f2;
+        font-weight: 500;
+        font-size: 16px;
+            }
+        }
+    form{
+        display: flex;
+        flex-direction: column;
+        background: #fff;
+        height: 250px;
+        margin-bottom: 2px;
+        justify-content: space-around;
+            
+        }
+        
+    button{
+        padding: 13px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+    .btn-success{
+        width: 116px;
+        font-weight: 700;
+        font-size: 16px;
+
+    }
+    }
+   
+}
+.singUp{
+    padding: 20px;
+    form{
+        height: 350px !important;
+
+    }
+}

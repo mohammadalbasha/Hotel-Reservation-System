@@ -1,0 +1,173 @@
+[
+    {
+        "orders": [
+            {
+                "room": {
+                    "number": 3,
+                    "price": 80
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 5,
+                    "price": 130
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 1,
+                    "price": 100
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            }
+        ],
+        "_id": "60915b4cf05759407c67b147",
+        "email": "moazb8948@gmail.com",
+        "name":"Mouaz Albari",
+        "phoneNumber": "0932244969",
+        "isActive": true
+    },
+    {
+        "orders": [
+            {
+                "room": {
+                    "number": 3,
+                    "price": 80
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 5,
+                    "price": 130
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 1,
+                    "price": 100
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            }
+        ],
+        "_id": "60915b4cf05759407c67b147",
+        "email": "moazb8948@gmail.com",
+        "name":"Mouaz Albari",
+        "phoneNumber": "0932244969",
+        "isActive": true
+    },
+    {
+        "orders": [
+            {
+                "room": {
+                    "number": 3,
+                    "price": 80
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 5,
+                    "price": 130
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            },
+            {
+                "room": {
+                    "number": 1,
+                    "price": 100
+                },
+                "_id": "60915bb0f05759407c67b149",
+                "userId": "60915b4cf05759407c67b147",
+                "checkIn": "2020-07-11T21:00:00.000Z",
+                "checkOut": "2020-07-19T21:00:00.000Z",
+                "hotel": {
+                    "_id": "60893d271167ba092c20bf51",
+                    "name": "realmadrid",
+                    "country": "espana"
+                },
+                "__v": 0
+            }
+        ],
+        "_id": "60915b4cf05759407c67b147",
+        "email": "moazb8948@gmail.com",
+        "name":"Mouaz Albari",
+        "phoneNumber": "0932244969",
+        "isActive": true
+    }
+]

@@ -1,0 +1,394 @@
+[
+    {
+        "room": {
+            "number": 1,
+            "price": 100
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2021-09-29T21:00:00.000Z",
+        "checkOut": "2021-10-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "realmadrid",
+            "country": "espana",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 7,
+            "price": 83
+        },
+        "_id": "608c596a6fe8a4052e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2021-09-29T21:00:00.000Z",
+        "checkOut": "2021-10-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c2051",
+            "name": "Hostiam",
+            "country": "Plala",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c96a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2021-09-29T21:00:00.000Z",
+        "checkOut": "2021-10-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "0893d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 1,
+            "price": 100
+        },
+        "_id": "608c596a6fe8a405282e291",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2021-09-29T21:00:00.000Z",
+        "checkOut": "2021-10-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d27167ba092c20bf51",
+            "name": "realmadrid",
+            "country": "espana",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 7,
+            "price": 83
+        },
+        "_id": "608c596e8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-26T21:00:00.000Z",
+        "checkOut": "2020-10-24T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d67ba092c20bf51",
+            "name": "Hostiam",
+            "country": "Plala",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c58a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "3d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 7,
+            "price": 83
+        },
+        "_id": "608c596a6fe8a405282e271",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-26T21:00:00.000Z",
+        "checkOut": "2020-10-24T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Hostiam",
+            "country": "Plala",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c596a6fe791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "67ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 7,
+            "price": 83
+        },
+        "_id": "608c596a6fe8a40282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-26T21:00:00.000Z",
+        "checkOut": "2020-10-24T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "0893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Hostiam",
+            "country": "Plala",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-29T21:00:00.000Z",
+        "checkOut": "2020-09-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 7,
+            "price": 83
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2020-09-26T21:00:00.000Z",
+        "checkOut": "2020-10-24T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Hostiam",
+            "country": "Plala",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    },
+    {
+        "room": {
+            "number": 3,
+            "price": 90
+        },
+        "_id": "608c596a6fe8a405282e2791",
+        "userId": "608b3adcc737fd55f48181c8",
+        "checkIn": "2019-09-29T21:00:00.000Z",
+        "checkOut": "2019-10-29T21:00:00.000Z",
+        "hotel": {
+            "location": {
+                "longitude": "31",
+                "latitude": "13"
+            },
+            "imagesUrl": [],
+            "rooms": [
+                "60893d271167ba092c20bf53",
+                "60893d271167ba092c20bf54"
+            ],
+            "_id": "60893d271167ba092c20bf51",
+            "name": "Calara",
+            "country": "Syria",
+            "role": "tour",
+            "__v": 1,
+            "features": "60893d271167ba092c20bf52"
+        },
+        "__v": 0
+    }
+]

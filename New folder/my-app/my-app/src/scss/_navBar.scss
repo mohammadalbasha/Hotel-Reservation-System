@@ -1,0 +1,198 @@
+
+
+
+.navbar{
+    width: 100%;
+    padding: 18px 40px;
+    z-index: 1000000;
+    background-color: #ffffff;
+    position: absolute;
+    // box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+      position: fixed;
+    left: 0;
+    top: 0;
+    .navbar-brand{
+        font-weight: 400;
+    color: $mainOrang;
+    font-family: cursive;
+    span{
+      font-weight: bold;
+    background: $mainOrang;
+    padding: 11px 4px;
+    border-radius: 50%;
+    color: #fff;
+    }
+
+    }
+    .navbar-nav{
+        .nav-item{
+            a{
+                font-size: 16px;
+                font-weight: 600;
+                color: #595652 ;
+                margin-left: 20px;
+                padding: 17px;
+
+                &:hover{
+                    text-decoration: none;
+                }
+            }
+       
+        }
+        .singIn{
+            a{
+                color: #fff;
+                background-color: #141414d4;
+                border-radius: 10px;
+                padding: 11px 16px;
+
+            }
+        }
+
+    }
+    .form-inline{
+        .form-control{
+
+        }
+        button{
+            border-color: $mainOrang;
+            color: $mainOrang;
+            &:hover{
+                background-color: $mainOrang;
+                color: #fff;
+                
+            }
+            &:focus{
+                background-color: $mainOrang;
+                color: #fff;
+
+                box-shadow: 0 0 0 0.2rem $mainOrang;    
+                    }
+                    
+    
+               
+        }
+       
+    }
+
+}
+
+.mainPage{
+    .navbar{
+        box-shadow: none;
+        position: absolute;
+        background-color: #ffffff00;
+        z-index: 1000;
+        padding-left: 80px;
+        padding-right: 80px;
+        div{
+            width: 100%;
+            ul{
+                flex-direction: row-reverse;
+            }
+
+        }
+  
+
+        .navbar-brand{
+          
+        font-size: 26px;
+      
+    
+        }
+        .navbar-nav{
+            .nav-item{
+                a{
+
+                    color: #fff ;
+                    font-size: 17px;
+                    background-color: $mainOrang;
+                    border-radius: 10px;
+                    padding: 11px 16px;
+    
+                    &:hover{
+                       
+                    }
+                }
+           
+            }
+            .singIn{
+                a{
+                    color: #fff;
+                    background-color: $mainOrang;
+                  
+    
+                }
+            }
+    
+        }
+    }
+}
+
+@media (max-width: 1399.98px) { 
+
+}
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+
+  }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+    .mainPage .navbar {
+      
+        div{
+        width: auto;
+        }}
+ 
+ }
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    .navbar .navbar-nav .nav-item a {
+         font-size: 23px;
+        font-weight: 600;
+        color: #595652;
+        margin-left: 0;
+        padding: 0;
+    }
+    .nav-item {
+        padding: 10px 0;
+    }
+    .navbar-collapse{
+        margin-top: 20px;
+    }
+    .navbar .navbar-nav .singIn a {
+         color: inherit; 
+                 background-color: #fff; 
+        border-radius: 10px;
+        /* padding: 11px 16px;*/}
+.mainPage .navbar {
+    padding-left: 28px;
+    padding-right: 7px;
+    div{
+    width: auto;
+    }
+    .navbar-nav {
+        .nav-item {
+            a {
+                font-size: 16px;
+                padding: 11px 6px;
+                margin-left: 8px;
+   
+        }}
+    }
+}}
+//X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+    
+
+}
+
+
+
+
+
+
+
+
+

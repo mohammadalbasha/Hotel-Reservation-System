@@ -1,0 +1,316 @@
+.HotelPageContaner{
+    padding-top: 65px ;
+       
+    h2{
+       
+        border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+                color: #3a405b;
+                margin: 25px 35px;
+                margin-top: 12px;
+                font-weight: 600;
+                line-height: 40px;
+                padding: 0px;
+                .edit{
+                    font-size: 19px !important;
+                    margin: 20px !important;
+                    color: #c00d0d !important;
+                    border:none !important;
+                }
+               
+    }
+    .info{
+        background: #fff;
+        margin: 20px;
+        border-radius:  8px ;
+        padding: 0;
+        transition: all .5s;
+        &:hover{
+            box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.37);
+            transform: translatey(-6px)
+        };
+        .info-contaner{
+            display: flex;
+            justify-content: space-between;
+            padding: 0;
+            img{
+                border-radius:  0 8px 8px 0;
+
+            }
+            .right{
+                font-size: 23px;
+                padding: 100px;
+                padding-bottom: 0;
+
+                h3{
+                    font-size: 57px;
+                }
+                .stars{
+                    color: gold;
+                }
+              
+            }
+            .hotellFeatures{
+                margin: 20px -8px;
+                i{
+                    margin-left: 10px;
+                }
+
+            }
+            .edit{
+                color: #c00d0d !important;
+                margin: 20px 0;
+                font-weight: 500;
+                border:none
+        }
+            }
+          .slider {
+            height: 100%;
+            padding: 0;
+            img{
+                height: 404px;
+            }
+          }
+        }
+        .features{
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px ;
+            border-radius: 8px;
+            transition: all .5s;
+
+            &:hover{
+                box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.37);
+                transform: translatey(-6px)
+            };
+            span{
+                border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+                color: #3a405b;
+                margin: 25px 0;
+                margin-top: 12px;
+                font-size: 21px;
+                font-weight: 600;
+                line-height: 40px;
+                padding: 0px;
+            }
+            .hotelFeatures ,.normalFeatures,.vipFeatures,.sweetFeatures{
+                background-color: #fff;
+                display: flex;
+                flex-wrap: wrap;
+                // justify-content: space-between;
+                margin: 25px;
+                max-width: 100%;
+                padding: 17px 50px;
+                padding-top: 0;
+                background: #eaeef388;
+                border-radius: 10px;
+             
+            }
+           
+            .feature{
+                        
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    justify-content: center;
+                    width: 6rem;
+                    min-height: 6rem;
+                    border-radius: 0.5rem;
+                    border: 2px solid $mainColor;
+                    background-color: #fff;
+                    color: #ffffff;
+                    transition: 0.15s ease;
+                    cursor: pointer;
+                    position: relative;
+                    transition: .1s all ease-in-out !important;
+                    background-color: $mainColor;
+                    margin-right: 20px;
+                    p{
+                        font-size: 10px;
+                        color: #d7d1d1ad;
+                    }
+                    i{
+                        font-size: 39px;
+                    }
+            }
+            .vipFeatures{
+                .feature{ background-color: $vip;
+                    border: 2px solid $vip;}
+               
+               
+            
+        }
+        .vip{
+            color: $vip;
+        }
+            
+        .normalFeatures{
+            .feature{ background-color: $normal;
+                border: 2px solid $normal;}
+           
+           
+        
+    }
+    .normal{
+        color: $normal;
+    }
+            .sweetFeatures{
+                .feature{ background-color: $sweet;
+                    border: 2px solid $sweet;}
+               
+               
+            
+        }
+        .sweet{
+            color: $sweet;
+        }
+        }
+.rooms{
+    background: #fff;
+    margin: 20px ;
+    border-radius: 8px;
+    padding: 28px 20px;
+    text-align: center;
+    transition: all .5s;
+
+    &:hover{
+        box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.37);
+        transform: translatey(-6px)
+    };
+    .roomsHeader{
+        color: #3a405b;
+        font-weight: 600;
+        line-height: 40px;
+        text-align: left;
+        padding: 0px;
+        margin: 0;
+        font-size: 27px;
+       
+    }
+    .edit{
+        color: #c00d0d !important;
+        margin: 20px 0;
+        font-weight: 600;
+        margin-left: 23px;
+    }
+    tr{
+        height: 55px;
+    border-bottom: .3px solid #0000002e;
+    border-top: 1px solid #0000002e;
+    }
+}
+       
+    }
+    
+
+
+
+
+.hotalEdit{
+height: 100vh;
+    .hotelEditForm{
+      .headerEditHotel{
+        border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+        color: #3a405b;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 40px;
+        padding: 11px;
+      }
+        animation-fill-mode: none !important;
+        flex-direction:row-reverse;
+        width: 82% ;
+        position: relative;
+        left: 50%;
+        top:calc(50% + 55px);
+        transform: translate(-50%,-50%);
+        background: #fff;
+    padding: 0 20px 20px 20px;
+    border-radius: 10px;
+    border: 1px solid #f2f2f2;
+    margin: 0 25px;
+    transition: all .5s;
+       
+          
+            form{
+                width: 100%;
+                align-items: center;
+                input[type='text'],[type='number'],[type='password'],[type='email']{
+                    overflow: visible;
+                    background-color: #ffffff00;
+                    width: 80%;
+                    padding: 8px;
+                    margin: 21px;
+                    border: none;
+                    margin: 37px;
+    
+                    justify-content: center;
+                    border-bottom: 1px solid #c7d0d96b;
+                    &:focus{
+                       outline: none;
+                       border-bottom: 1px solid #32c43e;
+    
+                    }
+                }
+                label{
+    
+                }
+                button{
+                    background-color: $mainColor !important;
+    
+                margin: 0 50%;
+                margin-bottom: 40px;
+                width: 119px;
+                padding: 12px 20px;
+                font-weight: 600;                 }
+               .addImg{
+                   margin: 37px;
+               }
+            }
+             
+            
+    
+    
+    }}
+    .featuresEdit{
+        height: 100vh;
+
+        .featuresEditInner{
+            animation-fill-mode: none !important;
+            animation-fill-mode: none !important;
+            flex-direction: row-reverse;
+            width: 82%;
+            position: relative;
+            left: 50%;
+            top: 101px;
+            /* background: #fff; */
+            transform: translate(-50%, 0);
+            padding: 0 20px 20px 20px;
+            border-radius: 10px;
+            border: 0px solid #f2f2f2;
+            margin: 0 25px;
+            transition: all .5s;
+        }
+    }
+    .roomEdit{
+        margin-top: 15px;
+        .innerRoomEdit{
+            background: #fff;
+            padding: 0 20px 20px 20px;
+            border-radius: 10px;
+            border: 1px solid #f2f2f2;
+            margin: 0 25px;
+            transition: all .5s;
+}          input{
+    overflow: visible;
+    background-color: #ffffff00;
+    width: 80%;
+    padding: 8px;
+    margin: 21px;
+    border: none;
+    margin: 37px;
+    justify-content: center;
+    border-bottom: 1px solid #c7d0d96b;
+}
+
+        
+    }

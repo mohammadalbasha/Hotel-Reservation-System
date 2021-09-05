@@ -1,0 +1,68 @@
+$borderColoer: #00C0EF ,#F39C12 ,#00A65A ,#DD4B39 ,#6a39dd  ,#ddda39  ;
+$i:1;
+@each $color in $borderColoer {
+    .border-#{$i}{
+        border-top:solid 3px $color;
+    }
+    $i:$i+1;
+}
+.usersPage{
+    .innerUsers{
+        .usersHeader{
+margin: 0;
+padding: 87px 0 8px 60px;
+// font-size: 25px;
+color: #666;
+font-weight: 400;      }
+        .users{
+            margin: 0 20px;
+            .user{
+                background-color: #fff;
+                // border-radius: 10px;
+                margin: 20px;
+                padding: 20px 10px;  
+                transition: .5s all;
+                position: relative;
+                &:hover{
+                    box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.37);
+                    transform: translatey(-6px)
+                }
+               
+              
+                .userInfo{
+                    display: flex;
+                    justify-content: space-between;
+                    font-weight: 600;
+                    border-bottom: 2px dotted #00000024;
+                    font-size: 18px;
+                    padding:  0  16px 16px 16px;
+                    color: rgb(129, 125, 125);
+                    .block{
+                        color: #e71515;
+                        font-size: 20px;
+                        font-weight: 600;
+                        &:hover{
+                            text-decoration: underline;
+                        }
+                    }
+                }
+                .orders{
+                    width: 100%;
+                    td ,th{
+                        padding: 20px;
+                    }
+                    th{
+                        color: #112754d8;
+
+                    }
+                    td{
+                        color: #11275498;
+                        border-top: 1px solid #00000010;
+
+
+                    }
+                }
+            }
+        }
+    }
+}

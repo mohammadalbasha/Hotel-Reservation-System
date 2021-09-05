@@ -1,0 +1,136 @@
+.chackPar{
+    .formChake{
+        background: #fff;
+        padding-left: 37px;
+        min-height: 97px;
+        align-items: center;
+        display: flex;
+        border: 2px solid #eee;
+        flex-wrap: wrap;
+        // overflow: hidden;
+       &>.row{
+width: 100%; 
+      }
+     
+       
+        
+         .textAria{
+          
+            display: flex;
+            border-radius: 4px;
+            justify-content: space-between;
+            margin: 6px 10px;
+            align-items: center;
+            height: 61px;
+            background: #eee;
+            z-index: 100000;
+
+                &>div{
+                    
+                   }
+                   
+            p{
+                padding: 0 0px 0 0px;
+                font-size: 17px;
+                font-weight: 700;
+                margin: 0;
+                width: 211px;
+                color: $mainOrang;
+             
+            }
+            i{
+                margin-right: 10px;
+                color: $mainOrang;
+            }
+            input{
+                font-size: 17px;
+                background-color: rgba(238, 238, 238, 0);
+                z-index: 3;
+    
+                    font-weight: bold;
+                    border: none;
+            
+                &:focus{
+                    outline: none;
+                    color: #156bc1;
+    
+                }
+            }
+        }
+      
+        .sharsh{
+            z-index: 3;
+            padding: 9px 19px;
+            border-radius: 49px;
+            background: #2761c1;
+    // background-color: #fff;
+         
+    
+            button{
+                font-size: 20px;
+                font-weight: bold;
+                line-height: 20px;
+                background: rgba(255, 255, 255, 0);
+                border: none;
+                width: 100%;
+                text-align: center;
+                color: #eee;
+                height: 100%;
+            }
+            
+        
+        }
+    
+    }
+}
+
+
+
+
+
+.MuiCheckbox-colorSecondary.Mui-checked  ,.MuiRadio-colorSecondary.Mui-checked{
+    color: $mainOrang !important;
+}
+.MuiChip-colorSecondary{
+    background-color: $mainOrang !important;
+}
+
+
+@media (max-width: 1399.98px) { 
+
+}
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { 
+    
+ }
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+    .chackPar {
+        .formChake {
+            padding-left: 0;
+            height: auto;
+             .textAria {
+                 p{
+                    font-size: 15px;
+                    width: 105px;
+
+                 }
+                 input{
+                     font-size: 16px;
+                     width: 105px;
+
+                 }
+            }
+        }
+}
+  }
+//X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+    
+
+}

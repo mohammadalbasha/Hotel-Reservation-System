@@ -1,0 +1,282 @@
+*{
+    // color: $mainOrang;
+}
+.loading{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 28%;
+}
+.row{
+    margin: 0;
+}
+$formBlue:#156bc1;
+
+    .chake{
+            height: 100vh;
+            .overLay{
+                position: absolute;
+                z-index: 2;
+                right: 0;
+                height: 100%;
+                top: 0;
+                background-size: cover;
+                text-align: right;
+                img{
+                    width: 1048px;              
+                          height: 100%;
+                    border-bottom-left-radius: 100%;
+                    // border-top-left-radius: 23%;
+                  }
+                //   div{
+                //     width: 100%;
+                //     left: 0;
+                //     width: 100%;
+                //     height: 100%;
+                //     border-bottom-left-radius: 126%;
+                //     border-bottom-right-radius: 134%;
+                //     border-top-left-radius: 135%;
+                //     position: absolute;
+                //     z-index: 4;
+                //     background: #053bff21;
+                //     top: 0;
+                //   }
+            }
+
+            .innerChacke{
+                display: flex;
+                flex-direction: column;
+                position: absolute;
+    bottom: 81px;
+                padding-top: 114px;
+                h4{
+                    z-index: 3;
+                    padding: 0 80px;
+                    font-size: 78px;
+                    font-weight: bold;
+                    color: #464646;
+                    span{
+                    }
+                }
+                .text{
+                    color: #464646a9;
+                    font-size: 27px;
+                    margin-left: 85px;
+                    margin-top: 39px;
+                    width: 146px;
+                    border-bottom: 1px solid;
+                  }
+                  .formChake{
+
+                    width: 411px;
+                    z-index: 3;
+                    display: flex;
+                    margin-left: 85px;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                 
+                    .cheakHeader{
+                        position: absolute;
+                        right: 0;
+                        top: -40px;
+                        border-radius: 9px 9px 0 0;
+                        font-size: 17px;
+                        font-weight: 500;
+                        line-height: 20px;
+                        padding: 18px 54px;
+                        background: #000000c9;
+                        border: none;
+                        color: #eee;
+                    }
+                    input{
+                        z-index: 3;
+                        
+                        color: dimgrey;
+                        font-weight: bold;
+                       border: none;
+                     
+                    }
+                   
+                    
+                     .textAria{
+                      
+                        z-index: 1000;
+                        border-radius: 14px;
+                        justify-content: space-between;
+                        margin: 17px 0;
+                        margin-right: 11px;
+                        background: #fff;
+                        border: 2px solid #eee;
+                        display: flex;
+                        align-items: center;
+                        i{
+                            color: $mainOrang;
+                            margin-right: 10px;
+                        }
+                            &>div{
+                                
+                               }
+                               
+                        p{
+                            padding: 4px 0px 0 0px;
+                            font-size: 19px;
+                            font-weight: 700;
+                            margin: 0;
+                            color: $mainOrang;
+                        }
+                        input{
+                            font-size: 17px;
+                            background-color: rgba(238, 238, 238, 0);
+                            width: 100%;
+                        
+                            &:focus{
+                                outline: none;
+                                color: #156bc1;
+             
+                            }
+                        }
+                    }
+                   
+                    .sharsh{
+                        z-index: 3;
+                        padding: 15px 10px;
+                        background: $mainOrang;
+        
+        // background-color: #fff;
+                     
+        
+                        button{
+                            font-size: 20px;
+                            font-weight: bold;
+                            line-height: 20px;
+                            background: $mainOrang;
+                            border: none;
+                            width: 100%;
+                            text-align: center;
+                            color: #eee;
+                            height: 100%;
+                        }
+                        
+                    
+                    }
+                
+                }
+            }
+          
+ 
+     
+    }
+
+    @media (max-width: 1399.98px) { 
+
+    }
+    // Large devices (desktops, less than 1200px)
+    @media (max-width: 1199.98px) { 
+        .chake .overLay{
+            img{
+                width: 773px;
+                height: auto;
+            }
+        }
+        .formChake{
+            .row{
+                // flex-direction: row;
+            }
+         }}
+    
+    // Medium devices (tablets, less than 992px)
+    @media (max-width: 991.98px) { 
+        .advertising{
+            display: none;
+        }
+        .chake {
+            .overLay {
+                position: relative;
+                right: auto;
+                height: auto;
+                top: -24px;}
+                .innerChacke{
+            .text{
+                top: 662px;
+            }
+            h4{
+                top: 418px;
+            }
+            .formChake{
+                bottom: 110px;
+            }}
+        }
+     }
+    // Small devices (landscape phones, less than 768px)
+    @media (max-width: 767.98px) { 
+        .loading{
+            position: absolute;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            top: 28%;
+            z-index: 100;
+            margin-top: 264px;
+            width: 100%;
+            height: 100vh;
+            background: #ffffff8f;
+            &>div{
+                width: 40px;
+                height: 40px;
+                position: absolute;
+                left: 40%;
+                top: 25%;
+            }
+          } 
+        .safeSection {
+            padding: 40px 37px;}
+        .chake {
+          
+            .overLay{
+                display: none;
+            }
+            .innerChacke{
+            h4{
+                font-size: 50px;
+                position: static;
+                width: 100%;
+                padding: 0px 28px;
+}
+            
+            .text{
+                position: static;
+
+                margin-left: 28px;
+                width: 142px;
+            }
+            .formChake {
+                position: static;
+                width: auto;
+
+                margin-left: 28px;
+                .cheakHeader {
+                 
+                
+                    
+                }
+                .row{
+                .textAria {
+                    p{
+                        font-size:  18px;
+                    }
+                  
+                   }   
+            }
+        }}
+       
+    }}
+    //X-Small devices (portrait phones, less than 576px)
+    @media (max-width: 575.98px) { 
+        *{
+          
+        }
+    
+    }
+
+
+
+

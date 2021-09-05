@@ -1,0 +1,68 @@
+
+  .ribbon {
+    font-size: 28px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 1px 5px rgb(0 0 0 / 15%);
+    letter-spacing: -2px;
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    background: linear-gradient(to bottom, #999999 0%, #cccccc 100%);
+    color: white;
+    float: left;
+    padding-top: 1rem;
+    position: absolute;
+    z-index: 1000;
+    -webkit-filter: drop-shadow(0 0.5rem 0.3em rgba(0, 0, 0, 0.5));
+    transform: translate3d(0, 0, 0);
+  }
+  .ribbon:after {
+   content: "";
+    width: 0;
+    height: 0;
+    border-right: 32px solid transparent;
+    border-left: 32px solid transparent;
+    border-top: 1.5rem solid #CCCCCC;
+    position: absolute;
+    top: 4rem;
+    left: 0;
+  }
+  .ribbon.ribbon--red {
+    background: linear-gradient(to bottom, #d3362d 0%, #e57368 100%);
+  }
+  .ribbon.ribbon--red:after {
+    border-top: 1.5rem solid #E57368;
+  }
+  .ribbon.ribbon--orange {
+    background: linear-gradient(to bottom, #e7711b 0%, #fcba65  100%);
+  }
+  .ribbon.ribbon--orange:after {
+    border-top: 1.5rem solid #fcba65 ;
+  }
+  .ribbon.ribbon--yellow {
+    background: linear-gradient(to bottom, #f1ca3a 0%, #f6eb3b 100%);
+  }
+  .ribbon.ribbon--yellow:after {
+    border-top: 1.5rem solid #F6EB3B;
+  }
+  .ribbon.ribbon--green {
+    background: linear-gradient(to bottom, #5f9654 0%, #65b045 100%);
+  }
+  .ribbon.ribbon--green:after {
+    border-top: 1.5rem solid #65B045;
+  }
+  .ribbon.ribbon--blue {
+    background: linear-gradient(to bottom, #1c91c0 0%, #11a9cc 100%);
+  }
+  .ribbon.ribbon--blue:after {
+    border-top: 1.5rem solid #11A9CC;
+  }
+  .ribbon.ribbon--purple {
+    background: linear-gradient(to bottom, #5c3292 0%, #7e3794 100%);
+  }
+  .ribbon.ribbon--purple:after {
+    border-top: 1.5rem solid #7E3794;
+  }
+  

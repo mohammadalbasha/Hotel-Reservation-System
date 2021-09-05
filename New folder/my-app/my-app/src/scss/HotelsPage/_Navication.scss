@@ -1,0 +1,54 @@
+.navication{
+    background: #eeeeee26;
+    padding: 20px 47px;
+    .map{
+        background: url("https://a.cdn-hotels.com/kesstatic/97312c5fefe8fc8f82c0.svg");
+        margin: 20px 0;
+    padding: 35px 23px;
+    text-align: center;
+    }
+    .filter{
+        margin: 20px 0;
+       &>div{
+        display: flex;
+        flex-direction: column;
+    
+       }
+    }
+}
+
+
+@media (max-width: 1399.98px) { 
+
+}
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { 
+.navication{
+    padding: 20px 24px;
+}
+  }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+ 
+}
+// Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { 
+   
+.filterType{
+    overflow-x: scroll;
+}
+}
+//X-Small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+    .navication{ 
+        // background: #fff;
+        // z-index: 10000;
+        // width: 75%;}
+        display: none;
+    }
+
+}
+
+
+

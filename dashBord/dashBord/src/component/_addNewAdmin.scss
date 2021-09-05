@@ -1,0 +1,407 @@
+.true{
+    color: green;
+}
+button{
+background-color: $mainColor ;
+
+}
+
+.span{
+    background: #11274f;
+margin: 0 25px;
+/* height: 37px; */
+width: 205px;
+display: block;
+color: #fff;
+padding: 10px;
+border-radius: 20px 0;
+margin-top: 20px;
+}
+.chakeBox{
+           
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 6rem;
+    min-height: 6rem;
+    border-radius: 0.5rem;
+    border: 2px solid $mainColor;
+    background-color: #fff;
+    color: #9c9c9c;
+    transition: 0.15s ease;
+    cursor: pointer;
+    position: relative;
+    transition: .1s all ease-in-out !important;
+
+    i{
+        font-size: 39px;
+        color: $mainColor;
+
+    }
+    &:hover {
+        box-shadow:0 -4px 9px #7facff54;
+
+       
+    }
+  
+    div{
+        font-size: 10px;
+    }
+    input{
+        width: 1px;
+     
+    }
+}
+.chakeClicked{
+    
+    background-color: $mainColor !important;
+    i{
+        color: #fff !important;
+    }
+}
+.vipFeatures{
+    .chakeClicked{
+    
+        background-color: $vip !important;
+        i{
+            color: #fff !important;
+        }
+    }
+}
+.normalFeatures{
+    .chakeClicked{
+    
+        background-color: $normal !important;
+        i{
+            color: #fff !important;
+        }
+    }
+}
+.sweetFeatures{
+    .chakeClicked{
+    
+        background-color: $sweet !important;
+        i{
+            color: #fff !important;
+        }
+    }
+}
+
+
+.addAdminPage ,.addHotelPage {
+   
+    height: 100vh;
+    position: relative;
+    .title{
+        height: 34px;
+        top: 90px;
+        left: 172px;
+        width: 100%;
+        margin: auto;
+        position: relative;
+        font-size: 25px;
+        color: #666;
+        font-weight: 300;  
+       }
+    .success{
+        text-align: center;
+        margin: auto;
+        color: #59be0d;
+        width: 100%;
+        font-size: 34px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        top: 50%;
+        font-weight: bold;
+    }
+    .addHotel ,.addRoom ,.addAdmin{
+               
+       .innerAddHotel ,.room-inner ,.admin-inner{
+           background: #fff;
+           padding: 0 20px 20px 20px;
+           border-radius: 10px;
+           border: 1px solid #f2f2f2;
+           margin: 0 25px;
+           .headerAddHotel,.room-header,  .admin-header{
+               border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+               color: #3a405b;
+               font-size: 22px;
+               font-weight: 600;
+               line-height: 40px;
+               padding: 5px;
+           }
+           transition: all .5s;
+
+            &:hover{
+                box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.37);
+                transform: translatey(-6px)
+            };
+       }
+        select{
+           width: 130px;
+           margin: 0 36px;
+        }
+       
+   }
+
+
+.react-reveal{
+    animation-fill-mode: none !important;
+
+}
+    .addAdminForm ,.addHotelForm{
+      
+    animation-fill-mode: none !important;
+    flex-direction:row-reverse;
+    width: 82% ;
+        height: 70%;
+    position: relative;
+    left: 50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+   
+      
+        form{
+            width: 100%;
+            align-items: center;
+            input[type='text'],[type='number'],[type='password'],[type='email']{
+                overflow: visible;
+                background-color: #ffffff00;
+                width: 80%;
+                padding: 8px;
+                margin: 21px;
+                border: none;
+                margin: 37px;
+
+                justify-content: center;
+                border-bottom: 1px solid #c7d0d96b;
+                &:focus{
+                   outline: none;
+                   border-bottom: 1px solid #32c43e;
+
+                }
+            }
+            label{
+
+            }
+            button{
+                background-color: $mainColor !important;
+
+            margin: 0 50%;
+            margin-bottom: 40px;
+             }
+           
+        }
+         
+        
+
+
+}
+}
+.addHotelPage{
+    .hotelFeatures{
+        justify-content: space-between;
+        max-width: 100%;
+        margin: 0 25px;
+        padding: 39px 50px;
+        background: #fff;
+        border-radius: 0 10px 10px 10px;
+        
+        
+}
+.addHotelForm{
+       
+   
+    >.row{
+     justify-content: center
+    }
+     form{
+        .addRoom{
+            margin-top: 15px;
+        }
+        
+         .btn{ margin: 61px auto;}
+         input {
+            
+
+         }
+        
+        
+                
+                 .addImg{
+                     padding: 10px;
+                     margin: 20px 0;
+                     input{
+                         overflow: hidden;
+                         width: 92px;
+                    
+                     }
+                  
+                 }
+        
+
+     }}
+     .roomFeatures{
+     
+         
+         width: 100%;
+        
+          padding: 0;
+          margin: 30px 0;
+
+             .span{
+                 margin: 0 25px ;
+                 margin-top: 20px !important;
+                 background: $mainColor;
+                 width: 205px;
+                 display: block;
+                 color: #fff;
+                 padding: 10px;
+                 border-radius: 20px 0;
+                 margin-top: 20px;
+             }
+          .normalFeatures ,.vipFeatures,.sweetFeatures {
+             background-color: #fff;
+             display: flex;
+             flex-wrap: wrap;
+             justify-content: space-between;
+             // width: 100%;
+             margin: 0 25px;
+             max-width: 100%;
+             padding: 39px 50px;
+             background: #fff;
+             border-radius: 0 10px 10px 10px;
+             
+
+          };
+          .normalFeatures{
+             .chakeBox{
+                 border: 2px solid $normal;
+                 i{
+                     color: $normal
+                 }
+             };
+         };
+         .vipFeatures{
+             .chakeBox{
+                 border: 2px solid $vip;
+                 i{
+                     color: $vip
+                 }
+             }
+         };
+         .sweetFeatures {
+             .chakeBox{
+                 border: 2px solid $sweet;
+                 i{
+                     color: $sweet
+                 }
+             }
+     };
+         
+     .span{
+        
+     }
+     .normal{
+         background: $normal;
+     }
+     .sweet{
+         background: $sweet;
+     }
+     .vip{
+         background: $vip;
+     }
+
+
+
+
+
+}
+
+      
+    }
+  
+  
+
+@media (max-width: 575.98px) { 
+    .addHotelPage h2{
+        font-size: 33px;
+        margin: 0 35px;
+    }
+    .roomFeatures .normalFeatures, .roomFeatures .vipFeatures, .roomFeatures .sweetFeatures ,.addHotelPage .hotelFeatures{
+        padding: 39px 65px;
+                margin: 0 43px;
+        max-width: none;
+        width: 100%;
+       
+    }
+    .span{
+        margin: 0 43px !important;
+    }
+    .addHotelForm{
+        width: 96% !important;
+    }
+    .addHotelForm form .addHotel .innerAddHotel,.addHotelForm form .addRoom .room-inner,.admin-inner{
+        margin: 0 -74px  0 0;
+    }
+    .navigation{
+        right: 18px;
+    bottom: 26px;
+    li{
+        font-size: 24px;
+   
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    >span{
+      
+    left: 28px;
+    top: 32px;
+    height: 23px;
+    line-height: 25px;
+    width: 23px;
+    font-size: 30px;
+    }
+    
+}
+ }}
+
+@media (max-width: 767.98px) { 
+    .addHotelPage{
+        .addHotel{
+            .hotelFeatures  {
+            // justify-content: center !important;
+             
+            }
+         
+            
+        }
+ }
+
+}
+@media (max-width: 991.98px) { 
+   
+
+   
+    }
+   
+ 
+
+@media (max-width: 1199.98px) { 
+    
+ }
+     
+
+@media (max-width: 325px) { 
+    .roomFeatures .normalFeatures, .roomFeatures .vipFeatures, .roomFeatures .sweetFeatures ,.addHotelPage .hotelFeatures{
+        padding: 39px 10px ; 
+       
+       }
+   
+    
+}
+
+
+

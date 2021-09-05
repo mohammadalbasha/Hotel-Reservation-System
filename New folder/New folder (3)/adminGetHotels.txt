@@ -1,0 +1,189 @@
+[
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": [],
+        "rooms": [
+            {
+                "_id": "60893d271167ba092c20bf53",
+                "number": 1,
+                "hotel": "60893d271167ba092c20bf51",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                "checks": [
+                   
+                  
+                    {
+                        "_id": "608c5919ac92cc5448026742",
+                        "checkIn": "2020-08-29T21:00:00.000Z",
+                        "checkOut": "2020-08-29T21:00:00.000Z",
+                        "user": {
+                            "_id": "608b3adcc737fd55f48181c8",
+                            "email": "kaka2@email.com",
+                            "fullName": "kcnskdcksd",
+                            "phoneNumber": "2342343242"
+                        }
+                    },
+                    {
+                        "_id": "608c596a6fe8a405282e2790",
+                        "checkIn": "2020-09-29T21:00:00.000Z",
+                        "checkOut": "2020-09-29T21:00:00.000Z",
+                        "user": {
+                            "_id": "608b3adcc737fd55f48181c8",
+                            "email": "kaka2@email.com",
+                            "fullName": "kcnskdcksd",
+                            "phoneNumber": "2342343242"
+                        }
+                    }
+                ],
+                "__v": 4,
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d271167ba092c20bf54",
+                "number": 2,
+                "hotel": "60893d271167ba092c20bf51",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                "checks": [],
+                "__v": 0,
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "_id": "60893d271167ba092c20bf51",
+        "name": "realmadrid",
+        "country": "espana",
+        "role": "tour",
+        "__v": 1,
+        "features": {
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+	   "offers" : {
+  	     "hotelDiscount" : 5,
+  	     "websiteDiscount" : 3,
+  	     "extra" : "some extra offers"
+	   },
+            "_id": "60893d271167ba092c20bf52",
+            "__v": 0
+        }
+    },
+    {
+        "location": {
+            "longitude": "31",
+            "latitude": "13"
+        },
+        "imagesUrl": [],
+        "rooms": [
+            {
+                "_id": "60893d48fde7ba32bc60ca8c",
+                "number": 1,
+                "hotel": "60893d46fde7ba32bc60ca8a",
+                "size": 2,
+                "price": 100,
+                "type": "vip",
+                "checks": [],
+                "__v": 0,
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },
+            {
+                "_id": "60893d48fde7ba32bc60ca8d",
+                "number": 2,
+                "hotel": "60893d46fde7ba32bc60ca8a",
+                "size": 4,
+                "price": 200,
+                "type": "sweet",
+                "checks": [],
+                "__v": 0,
+                "features": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            }
+        ],
+        "_id": "60893d46fde7ba32bc60ca8a",
+        "name": "realmadrid",
+        "country": "espana",
+        "role": "tour",
+        "__v": 1,
+        "features": {
+            "hotelFeatures": {
+                "hasRestaurant": true,
+                "hasSwimmingPool": true,
+                "hasCinema": false,
+                "description": "moreDetailsCanBeAdded"
+            },
+            "roomFeatures": {
+                "vip": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "normal": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": true,
+                    "hasJacuzzi": false,
+                    "description": "moreDetailsCanBeAdded"
+                },
+                "sweet": {
+                    "hasCoffeeMachine": true,
+                    "hasBalcony": false,
+                    "hasJacuzzi": true,
+                    "description": "moreDetailsCanBeAdded"
+                }
+            },  
+	 "offers" : {
+  	     "hotelDiscount" : 5,
+  	     "websiteDiscount" : 3,
+  	     "extra" : "some extra offers"
+	   },
+            "_id": "60893d48fde7ba32bc60ca8b",
+            "__v": 0
+        }
+    }
+]

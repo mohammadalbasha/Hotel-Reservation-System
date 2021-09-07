@@ -1,4 +1,0 @@
-{
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtha2EyQGVtYWlsLmNvbSIsInVzZXJJZCI6IjYwOGIzYWRjYzczN2ZkNTVmNDgxODFjOCIsImlhdCI6MTYxOTgxMTY1NiwiZXhwIjoxNjE5ODE1MjU2fQ.9T_xHARhNvGPQyM8LdCs2_HhSZcab46bpvylVjsidGo",
-    "userId": "608b3adcc737fd55f48181c8"
-}
